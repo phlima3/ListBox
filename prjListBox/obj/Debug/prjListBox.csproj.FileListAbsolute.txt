@@ -1,0 +1,11 @@
+C:\Projetos MINAS\ListBox\prjListBox\bin\Debug\prjListBox.exe.config
+C:\Projetos MINAS\ListBox\prjListBox\bin\Debug\prjListBox.exe
+C:\Projetos MINAS\ListBox\prjListBox\bin\Debug\prjListBox.pdb
+C:\Projetos MINAS\ListBox\prjListBox\obj\Debug\prjListBox.csproj.AssemblyReference.cache
+C:\Projetos MINAS\ListBox\prjListBox\obj\Debug\prjListBox.csproj.SuggestedBindingRedirects.cache
+C:\Projetos MINAS\ListBox\prjListBox\obj\Debug\prjListBox.Form1.resources
+C:\Projetos MINAS\ListBox\prjListBox\obj\Debug\prjListBox.Properties.Resources.resources
+C:\Projetos MINAS\ListBox\prjListBox\obj\Debug\prjListBox.csproj.GenerateResource.cache
+C:\Projetos MINAS\ListBox\prjListBox\obj\Debug\prjListBox.csproj.CoreCompileInputs.cache
+C:\Projetos MINAS\ListBox\prjListBox\obj\Debug\prjListBox.exe
+C:\Projetos MINAS\ListBox\prjListBox\obj\Debug\prjListBox.pdb
